@@ -52,7 +52,7 @@ ROOT_URLCONF = 'game_of_donations.urls'
 
 WSGI_APPLICATION = 'game_of_donations.wsgi.application'
 
-
+#comments here
 # Database
 # https://docs.djangoproject.com/en/1.7/ref/settings/#databases
 
