@@ -23,6 +23,12 @@ $(document).ready(function() {
     };
 
     // List of venues. These are foursquare IDs, with the idea that eventually it'll tie in
+    
+    // A way to improve this, might be to have these pull from a Django model in the database via AJAX.
+    // You could then have someone either fill these out in the admin or have a form on the page that
+    // lets users uploaded new charities.
+    
+    // You could also pick a random subset of the charities every time so that the wheel is not overcrowded.
     venues = {
         "Jane": "www.janegoodall.org",
         "Women for Women": "www.womenforwomen.org",
