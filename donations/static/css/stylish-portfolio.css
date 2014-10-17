@@ -187,7 +187,8 @@ hr.small {
 }
 
 .about {
-    background: url('../img/two-spotlights-illuminating-smoky-stage.jpg') no-repeat 100%;
+    
+    background: url('../img/two-spotlights-illuminating-smoky-stage.jpg')no-repeat center center;
     padding: 50px 0;
 }
 
